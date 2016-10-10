@@ -1,0 +1,16 @@
+@import 'settings';
+
+body {
+  background: grey;
+  color: #FFF;
+}
+a {
+  color: $rouge;
+
+  &.bleu {
+    color: #00F;
+  }
+}
+#test {
+
+}
